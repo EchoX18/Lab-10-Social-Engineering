@@ -4,4 +4,8 @@
 # Challenge 2. A SE Anecdote 
  To recap this story, the user was a victim of a social engineering attack that was targeting his twitter account. The attacker first used his paypal account to reveal significant information that could land him his GoDaddy account. The Attacker called Paypal and ask for order to never release any information from the account with that he was able to successfully guess the final two digits of the the credit card and use that to be a verification method to GoDaddy and Paypal. Doing this the attacker was able to hack into the GoDaddy and the tried communicating with the victim through Facebook, he wanted the victim to change the twitter accounts email. With the attacker having full ownership of the GoDaddy account the attacker blackmailed the victim to give up his username or else all sites on GoDaddy were going to be deleted or compromised. The victim agreed to changing the account username but talked to twitter in order to inform the situation. The attack once got the Twitter username revealed to the victim how the whole social engineering tactics we committed. The Victim is now in shock and conclude that he will be moving away from PayPal and GoDaddy as soon as possible due to the mishandling of infomration. 
 # Challenge 3. Phishing Websites.
+  ![alt text](https://github.com/EchoX18/Lab-10-Social-Engineering/blob/master/ScreenShot%20Milestone%203.PNG)
  
+# Challenge 4. IoT webcams 
+ ![alt text](https://github.com/EchoX18/Lab-10-Social-Engineering/blob/master/Milestone%204.PNG)
+  For this webcam I used the filters no password and Axis connections this lead me to wide open Web Cams.
